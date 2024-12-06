@@ -1,0 +1,42 @@
+{
+    "components": [
+        {
+            "cachedName": "LWJGL 2",
+            "cachedVersion": "2.9.4-nightly-20150209",
+            "cachedVolatile": true,
+            "dependencyOnly": true,
+            "uid": "org.lwjgl",
+            "version": "2.9.4-nightly-20150209"
+        },
+        {
+            "cachedName": "Minecraft",
+            "cachedRequires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "cachedVersion": "b1.7.3",
+            "important": true,
+            "uid": "net.minecraft",
+            "version": "b1.7.3"
+        },
+        {
+            "cachedName": "Better than Adventure!",
+            "cachedVersion": "7.2_01",
+            "uid": "org.multimc.jarmod.bta"
+        },
+        {
+            "cachedName": "Babric",
+            "cachedVersion": "b1.7.3",
+            "uid": "babric"
+        },
+        {
+            "cachedName": "Fabric Loader",
+            "cachedVersion": "0.15.6-babric.6-bta",
+            "uid": "net.fabricmc.fabric-loader",
+            "version": "0.15.6"
+        }
+    ],
+    "formatVersion": 1
+}
